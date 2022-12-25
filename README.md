@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @obaidadil
 - 👀 I’m interested in Python, CSS, Javascript, HTML
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Javascript projects
+- 💞 I’m looking to collaborate on Javascript and python projects
 - 📫 How to reach me ...
 obaidadil@hotmail.com
 
